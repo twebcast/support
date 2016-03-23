@@ -1,1 +1,7 @@
-{"name":"Support","tagline":"Support on how to work with Twebcast. Feel free to ask questions or give feedback in the issues section. ","body":"![twebcast.com logo](http://twebcast.com/images/logo.png)\r\n\r\n# support\r\nSupport on how to work with Twebcast. Feel free to ask questions or give feedback in the issues section.\r\n\r\nCheckout the [wiki section](https://github.com/twebcast/support/wiki) for information on relevant features. Also feel free to post any issues if you [have a support matter.](https://github.com/twebcast/support/issues). \r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "Support",
+  "tagline": "Support on how to work with Twebcast. Feel free to ask questions or give feedback in the issues section. ",
+  "body": "![twebcast.com logo](http://twebcast.com/images/logo.png)\r\n\r\n# support\r\nSupport on how to work with Twebcast. Feel free to ask questions or give feedback in the issues section.\r\n\r\nCheckout the [wiki section](https://github.com/twebcast/support/wiki) for information on relevant features. Also feel free to post any issues if you [have a support matter.](https://github.com/twebcast/support/issues). \r\n",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
